@@ -26,9 +26,9 @@ custom_solver_bias = 0.0
 radius = 27.0803
 height = 13.2657
 
-[node name="Player" type="Area2D" index="0"]
+[node name="Player" type="Area2D"]
 
-position = Vector2( 215.032, 276.482 )
+position = Vector2( 199.52, 192.271 )
 input_pickable = true
 gravity_vec = Vector2( 0, 1 )
 gravity = 98.0
